@@ -11,20 +11,23 @@ listing:
     title: "Blog"
 ---
 
-Welkom op deze website over slakken in België.
+## Welkom op Slakkenverhalen uit België 🐌
 
-Het doel van deze site is om veldobservaties, excursies en projecten te documenteren en meer mensen enthousiast te maken voor deze vaak over het hoofd geziene dieren.
+Welkom op deze website over **land- en zoetwaterslakken in België**.  
+Slakken zijn vaak kleine, onopvallende dieren, maar ze spelen een belangrijke rol in onze ecosystemen. Ze helpen bijvoorbeeld bij de afbraak van plantaardig materiaal, vormen een belangrijke voedselbron voor vogels en kleine zoogdieren, en sommige soorten zijn zelfs goede indicatoren voor de gezondheid van hun leefomgeving.
+
+Op deze site wil ik veldobservaties, excursies en onderzoeksprojecten delen, en mensen enthousiast maken voor deze vaak over het hoofd geziene dieren. Of je nu een natuurliefhebber bent, een student, of gewoon nieuwsgierig, hier vind je informatie, verhalen en praktische tips over het vinden en herkennen van slakken.
 
 ## Wat vind je op deze site?
 
--   **Projecten** – grotere onderzoeksprojecten
--   **Excursies** – verslagen van veldbezoeken
--   **Blog** – korte verhalen over interessante vondsten
--   **Soorten** – informatie over slakkensoorten
+-   **Projecten**: uitgebreide onderzoeksprojecten
+-   **Excursies**: verslagen van veldbezoeken
+-   **Blog**: korte verhalen over bijzondere ontdekkingen, ervaringen in het veld en tips voor slakkenonderzoek
+-   **Soorten**: informatie over specifieke land- en waterslakken in België
 
 ## Laatste nieuws
 
-Hier vind je de meest recente blog posts.
+Hier vind je de meest recente blogposts met updates, ontdekkingen en interessante observaties.
 
 ::: {#sample-listings}
 :::
