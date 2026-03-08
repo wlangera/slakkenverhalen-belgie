@@ -1,0 +1,7 @@
+---
+title: "Slak in Du – Rapport 4"
+---
+
+<iframe src="pdfs/Rapport4-2020-BachelorpaperWardLangeraert.pdf" width="100%" height="800px">
+
+</iframe>

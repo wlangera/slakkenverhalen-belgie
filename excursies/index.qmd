@@ -1,0 +1,9 @@
+---
+title: "Excursies"
+---
+
+Verslagen van veldexcursies waarbij slakken werden gezocht en gedetermineerd.
+
+## Werkgroepen
+
+-   [Succinea werkgroep](succinea-werkgroep/index.qmd)

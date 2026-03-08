@@ -1,0 +1,9 @@
+---
+title: "Slak in Du – Rapport 1"
+---
+
+<iframe 
+  src="https://www.konbvc.be/wp-content/uploads/2025/10/Jaarverslag-2012_Slak-in-Du_finaal-elektr.pdf" 
+  width="100%" 
+  height="800px">
+</iframe>

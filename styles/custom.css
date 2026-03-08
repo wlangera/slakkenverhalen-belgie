@@ -1,0 +1,32 @@
+/* Achtergrond kleur van de body */
+body {
+  background-color: #f9f9f4;
+}
+
+/* Header titel kleur */
+h1, h2, h3 {
+  color: #2E8B57;
+}
+
+/* Links */
+a {
+  color: #6B8E23;
+}
+
+/* Navbar achtergrond */
+.navbar {
+  background-color: #f2f2ef;
+}
+
+/* Cards voor projecten/blog/excursies */
+.card {
+  border-radius: 12px;
+  border: 1px solid #dcdcdc;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+a:hover {
+  color: #DAA520; /* goudachtig bij hover */
+  text-decoration: none;
+}

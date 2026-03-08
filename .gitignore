@@ -1,0 +1,21 @@
+# Quarto output
+_site/
+_docs/
+*_cache/
+*_files/
+*_html/
+.Rproj.user/
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python / Jupyter (indien gebruikt)
+__pycache__/
+.ipynb_checkpoints/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db

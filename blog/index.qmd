@@ -1,0 +1,10 @@
+---
+title: "Blog"
+listing:
+  contents: .
+  type: default
+  sort: "date desc"
+  categories: true
+---
+
+Hier verschijnen korte berichten over interessante vondsten, excursies en observaties.

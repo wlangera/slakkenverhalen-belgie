@@ -1,0 +1,30 @@
+---
+title: "Welkom"
+listing:
+  contents: blog
+  type: table
+  sort: "date desc"
+  table-striped: true
+  date-format: "D MMMM YYYY"
+  fields: [title, date, author, description]
+  exclude:
+    title: "Blog"
+---
+
+Welkom op deze website over slakken in België.
+
+Het doel van deze site is om veldobservaties, excursies en projecten te documenteren en meer mensen enthousiast te maken voor deze vaak over het hoofd geziene dieren.
+
+## Wat vind je op deze site?
+
+-   **Projecten** – grotere onderzoeksprojecten
+-   **Excursies** – verslagen van veldbezoeken
+-   **Blog** – korte verhalen over interessante vondsten
+-   **Soorten** – informatie over slakkensoorten
+
+## Laatste nieuws
+
+Hier vind je de meest recente blog posts.
+
+::: {#sample-listings}
+:::

@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Slakkenverhalen uit België"
+  description: "Excursies, projecten en verhalen over land- en zoetwaterslakken."
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - text: Projecten
+        menu:
+          - href: projecten/slak-in-du/index.qmd
+            text: Slak-in-Du
+          - href: projecten/platte-schijfhoren/index.qmd
+            text: Platte schijfhoren
+
+      - text: Excursies
+        menu:
+          - href: excursies/succinea-werkgroep/index.qmd
+            text: Succinea werkgroep
+
+      - href: blog/index.qmd
+        text: Blog
+
+      - href: soorten/index.qmd
+        text: Soorten
+
+      - href: about.qmd
+        text: Over
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    lang: nl-BE
+    css: styles/custom.css
