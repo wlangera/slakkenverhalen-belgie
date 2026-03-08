@@ -43,11 +43,7 @@ website:
       - icon: facebook
         href: https://www.facebook.com/groups/276789952465531
       - icon: github
-        menu:
-          - text: Broncode
-            href:  https://github.com/wlangera/slakkenverhalen-belgie
-          - text: Feedback
-            href:  https://github.com/wlangera/slakkenverhalen-belgie/issues
+        href:  https://github.com/wlangera/slakkenverhalen-belgie
 
 format:
   html:
