@@ -1,0 +1,61 @@
+---
+title: "Herontdekking van de Platte schijfhoren in België"
+date: 2026-03-08
+author: "Ward Langeraert"
+description: "Een onverwachte vondst van de zeldzame Platte schijfhoren in Vorsdonkbos-Turfputten."
+categories: [vondst, herontdekking, België, zoetwater]
+---
+
+## Een onverwachte vondst
+
+Op 19 mei 2025 gingen we met enkele vrienden wandelen in het natuurgebied
+[Vorsdonkbos-Turfputten](https://www.natuurpunt.be/natuurgebieden/vorsdonkbos-turfputten) (Aarschot, Vlaams-Brabant).
+Tijdens de wandeling stopten we langs de oever van een beek.
+Kort zocht ik naar lege slakkenhuisjes om aan mijn vrienden te tonen.
+
+Tussen de plantenresten vond ik een twee kleine, platte
+schijfvormige schelpjes. Op het eerste gezicht leken ze op gewone
+schijfhorens (*Anisus* sp.), maar iets klopte niet helemaal. Ik twijfelde en besloot
+de schelpen toch mee te nemen om ze later beter te bekijken.
+
+Thuis bleek dat het ging om de Platte schijfhoren (*Anisus vorticulus*). Een soort die als zeer zeldzaam (of afwezig) geldt in België.
+
+<div style="display: flex; gap: 1em; justify-content: center;">
+
+<img src="https://waarnemingen.be/media/photo/118212068.jpg" alt="Platte schijfhoren (Anisus vorticulus)" style="width:100%;" />
+
+<img src="https://waarnemingen.be/media/photo/118212070.jpg" alt="Platte schijfhoren (Anisus vorticulus)" style="width:100%;" />
+
+</div>
+
+**Platte schijfhoren (*Anisus vorticulus*) uit Vorsdonkbos-Turfputten.**
+
+## Herkenning
+
+De Platte schijfhoren behoort tot de familie **Planorbidae**. Het huisje is zeer plat en schijfvormig, meestal slechts ongeveer 5 tot 6 mm breed en minder dan 1 mm hoog.
+
+De soort kan verward worden met de veel algemenere Draaikolk-schijfhoren (*Anisus vortex*), maar er zijn enkele duidelijke verschillen.
+De Draaikolk-schijfhoren heeft meer windingen wordt groter dan de Platte schijfhoren.
+De Platte schijfhoren heeft in het midden van de windingen een stompe kiel, terwijl die bij de Draakolk-schijfhoren over het algemeen opvallender is (scherper) en vaak ook aan de zijkant van de schelp ligt (niet centraal).
+De schelp van de Platte schijfhoren heeft ten slotte fijne lijntjes die het een zijdeachtige glans geven (cf. Kleine blinkslak *Aegopinella pura*).
+
+De Platte schijfhoren komt voor in rijk begroeid, helder water terwijl de Draaikolk-schijhoren veel beter bestand is tegen vervuild water.
+
+## Zeldzaam en beschermd
+
+De Platte schijfhoren is een soort met een voornamelijk Midden- en Oost-Europese verspreiding. In België werd ze historisch slechts zeer zelden vastgesteld. In Nederland komt ze algemener voor.
+
+In een studie van Sablon & Van Goethem ([1989](https://biblio.naturalsciences.be/rbins-publications/miscellanous/verhandelingen-van-het-symposium-invertebraten-van-belgie-comptes-rendus-du-symposium-invertebres-de-belgique-proceedings-of-the-symposium-invertebrates-of-belgium/wouters-1989-proceedings-of-the-symposium-invertebrates-of-belgium-113-118.pdf)) werd bijvoorbeeld slechts één Belgische vindplaats vermeld, gebaseerd op een exemplaar uit Zolder (1986).
+
+De soort heeft een bijzondere beschermingsstatus.
+Ze staat vermeld op bijlage II en IV van de Europese Habitatrichtlijn
+(92/43/EEG).
+
+Dat betekent dat ze strikt beschermd is:
+
+- **Bijlage II**: soorten waarvoor speciale beschermingszones moeten worden aangeduid binnen het Natura 2000-netwerk  
+- **Bijlage IV**: soorten die in heel Europa strikt beschermd zijn, ook buiten beschermde gebieden
+
+In het meest recente [INBO-rapport over de mollusken van de Habitatrichtlijn](https://publicaties.vlaanderen.be/view-file/19310) wordt de soort van 4 locaties vermeld, maar er zijn geen goede, recente vindplaatsen van de soort in Vlaanderen.
+
+> We volgen deze ontdekking verder op in een apart project, zie [projecten/platte-schijfhoren](../../projecten/platte-schijfhoren/)
