@@ -30,3 +30,9 @@ a:hover {
   color: #DAA520; /* goudachtig bij hover */
   text-decoration: none;
 }
+
+.float-end {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
