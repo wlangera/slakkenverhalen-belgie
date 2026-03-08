@@ -4,25 +4,24 @@ title: "Over deze website"
 
 ## Over deze website
 
-**Slakkenverhalen uit België** is een website over land- en
-zoetwaterslakken in België.
+**Slakkenverhalen uit België** is een website gewijd aan **land- en zoetwaterslakken**, met een sterke focus op soorten en waarnemingen in België.
 
-De site verzamelt:
+De site verzamelt veldobservaties, excursieverslagen en informatie over projecten rond deze vaak over het hoofd geziene diergroep. Hoewel de nadruk ligt op Belgische soorten en habitats, komen er af en toe ook waarnemingen of verhalen uit andere regio's aan bod wanneer ze relevant zijn voor de studie van mollusken.
 
-- excursieverslagen
-- onderzoeksprojecten
-- blogposts over interessante vondsten
-- informatie over soorten
+Op deze website worden verschillende soorten informatie samengebracht:
 
-Het doel is om kennis over slakken te delen en meer mensen
-enthousiast te maken voor deze fascinerende maar vaak
-ondergewaardeerde diergroep.
+- **Excursieverslagen** met waarnemingen uit het veld  
+- **Onderzoeksprojecten** rond mollusken  
+- **Blogposts** over interessante vondsten en ervaringen tijdens veldwerk  
+- **Soorteninformatie** over land- en zoetwaterslakken  
+
+Het doel van deze site is om **kennis over slakken te delen**, veldwerk te documenteren en vooral meer mensen in België enthousiast te maken voor deze fascinerende maar vaak ondergewaardeerde diergroep.
 
 ## Over de auteur
 
-Ik ben een natuurliefhebber met een bijzondere interesse
-voor land- en zoetwaterslakken.
+![](https://pureportal.inbo.be/files-asset/97192564/Ward_Langeraert_EV_INBO_min.jpg?w=160&f=webp){.float-end width=160}
 
-Tijdens excursies verzamel ik waarnemingen en documenteer
-ik soorten en habitats. Deze website vormt een digitaal
-logboek van dat werk.
+**Ward Langeraert** is bioloog en statisticus en werkt als **statistisch expert** bij het **Instituut voor Natuur- en Bosonderzoek (INBO)** in België. Hij richt zich  op biodiversiteitsmonitoring, data-analyse en reproduceerbaar onderzoek. Daarnaast ondersteunt hij onderzoekers bij de statistische analyse van hun onderzoeksgegevens. Naast zijn professionele werk heeft hij van jongs af aan een bijzondere interesse in **land- en zoetwatermollusken**.
+
+Meer informatie over het professionele werk van Ward Langeraert is te vinden via het  
+[INBO onderzoeksprofiel](https://pureportal.inbo.be/en/persons/ward-langeraert/).
