@@ -17,6 +17,11 @@ Op deze website worden verschillende soorten informatie samengebracht:
 
 Het doel van deze site is om **kennis over slakken te delen**, veldwerk te documenteren en vooral meer mensen in België enthousiast te maken voor deze fascinerende maar vaak ondergewaardeerde diergroep.
 
+## Bijdragen en feedback
+
+Wil je zelf een bijdrage leveren aan de website? Of heb je ergens een foutje gespot?
+Maak een issue op [GitHub](https://github.com/wlangera/slakkenverhalen-belgie/issues) of stuur een mailtje naar [langeraert.ward@gmail.com](mailto:langeraert.ward@gmail.com).
+
 ## Over de auteur
 
 ![](https://pureportal.inbo.be/files-asset/97192564/Ward_Langeraert_EV_INBO_min.jpg?w=160&f=webp){.float-end width=160}

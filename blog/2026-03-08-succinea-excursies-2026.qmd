@@ -3,7 +3,7 @@ title: "Succinea Werkgroep: Excursies 2026"
 date: 2026-03-08
 author: "Ward Langeraert"
 description: "Plan je agenda voor de komende Succinea Werkgroep excursies en ontdek de slakken van België."
-categories: [excursies, mollusken, België]
+categories: [excursies, mollusken, België, Succinea Werkgroep]
 ---
 
 ## Excursies Succinea Werkgroep 2026

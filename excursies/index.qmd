@@ -6,4 +6,4 @@ Verslagen van veldexcursies.
 
 ## Werkgroepen
 
--   [Succinea werkgroep](succinea-werkgroep/index.qmd)
+-   [Succinea Werkgroep](succinea-werkgroep/index.qmd)

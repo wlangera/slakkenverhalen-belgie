@@ -4,6 +4,14 @@ project:
 website:
   title: "Slakkenverhalen uit België"
   description: "Excursies, projecten en verhalen over land- en zoetwaterslakken."
+  back-to-top-navigation: true
+  page-footer: 
+    left: "Copyright 2026, Ward Langeraert"
+    right:
+      - icon: facebook
+        href: https://www.facebook.com/groups/276789952465531
+      - icon: github
+        href:  https://github.com/wlangera/slakkenverhalen-belgie 
 
   navbar:
     left:
@@ -30,6 +38,16 @@ website:
 
       - href: about.qmd
         text: Over
+
+    tools:
+      - icon: facebook
+        href: https://www.facebook.com/groups/276789952465531
+      - icon: github
+        menu:
+          - text: Broncode
+            href:  https://github.com/wlangera/slakkenverhalen-belgie
+          - text: Feedback
+            href:  https://github.com/wlangera/slakkenverhalen-belgie/issues
 
 format:
   html:
