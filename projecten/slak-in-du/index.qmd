@@ -4,7 +4,10 @@ title: "Slak-in-Du project"
 
 # Over het project
 
-Het **Slak-in-Du project** onderzoekt ...
+Het Slak-in-Du project heeft als doel de molluskenfauna in het duinengebied langs de
+Belgische Kust te inventariseren. In een periode van ongeveer zes jaar zullen respectievelijk
+de Oostkust, de Middenkust en de Westkust bemonsterd worden.
+Het project ging van start in 2012.
 
 # Rapporten
 
@@ -12,4 +15,4 @@ Het **Slak-in-Du project** onderzoekt ...
 - [Rapport 2](rapport-2.qmd): Oostkust rapport 2013 
 - [Rapport 3](rapport-3.qmd): Oostkust-Middenkust rapport 2014
 - [Rapport 4](rapport-4.qmd): Bachelor thesis: Verspreiding en voorkomen van de land- en zoetwatermollusken aan de Belgische kust
-- [Rapport 5](rapport-5.qmd): Overzichtsrapport: ...
+- [Rapport 5](rapport-5.qmd): Overzichtsrapport ... *coming soon*

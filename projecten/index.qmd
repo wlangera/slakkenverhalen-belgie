@@ -2,11 +2,14 @@
 title: "Projecten"
 ---
 
-# Projecten
+## Projecten
 
 Op deze pagina staan grotere projecten rond slakkenonderzoek.
 
-## Lopende projecten
+### Lopende projecten
 
--   [Slak-in-Du](slak-in-du/index.qmd)
--   [Platte schijfhoren](platte-schijfhoren/index.qmd)
+- [Platte schijfhoren](platte-schijfhoren/index.qmd)
+
+### Afgeronde projecten
+
+- [Slak-in-Du](slak-in-du/index.qmd)
