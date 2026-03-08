@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2026-03-08-example2.html",
+      "/blog/2025-05-02-example1.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/blog/2026-03-08-example2.html",
+      "/blog/2025-05-02-example1.html"
+    ]
+  }
+]

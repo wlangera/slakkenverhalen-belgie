@@ -1,6 +1,5 @@
 # Quarto output
 _site/
-_docs/
 *_cache/
 *_files/
 *_html/
@@ -19,3 +18,4 @@ __pycache__/
 # Mac / Windows
 .DS_Store
 Thumbs.db
+/.quarto/
