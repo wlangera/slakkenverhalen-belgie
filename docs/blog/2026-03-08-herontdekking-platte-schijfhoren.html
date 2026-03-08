@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Ward Langeraert">
+<meta name="description" content="Een onverwachte vondst van de zeldzame Platte schijfhoren in Vorsdonkbos-Turfputten.">
 
-<title>Blog – Slakkenverhalen uit België</title>
+<title>Herontdekking van de Platte schijfhoren in België – Slakkenverhalen uit België</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -69,65 +69,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Zoeken"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles/custom.css">
 </head>
@@ -180,7 +122,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="../blog/index.html" aria-current="page"> 
+    <a class="nav-link" href="../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -203,21 +145,52 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorieën</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Alle <span class="quarto-category-count">(3)</span></div><div class="category" data-category="QmVsZ2klQzMlQUI=">België <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZXhjdXJzaWVz">excursies <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGVyb250ZGVra2luZw==">herontdekking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGFuZA==">land <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bW9sbHVza2Vu">mollusken <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmlldXdlJTIwc29vcnQ=">nieuwe soort <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dm9uZHN0">vondst <span class="quarto-category-count">(2)</span></div><div class="category" data-category="em9ldHdhdGVy">zoetwater <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Op deze pagina</h2>
+   
+  <ul>
+  <li><a href="#een-onverwachte-vondst" id="toc-een-onverwachte-vondst" class="nav-link active" data-scroll-target="#een-onverwachte-vondst">Een onverwachte vondst</a></li>
+  <li><a href="#herkenning" id="toc-herkenning" class="nav-link" data-scroll-target="#herkenning">Herkenning</a></li>
+  <li><a href="#zeldzaam-en-beschermd" id="toc-zeldzaam-en-beschermd" class="nav-link" data-scroll-target="#zeldzaam-en-beschermd">Zeldzaam en beschermd</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
-</div>
+<h1 class="title">Herontdekking van de Platte schijfhoren in België</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">vondst</div>
+    <div class="quarto-category">herontdekking</div>
+    <div class="quarto-category">België</div>
+    <div class="quarto-category">zoetwater</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    Een onverwachte vondst van de zeldzame Platte schijfhoren in Vorsdonkbos-Turfputten.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Auteur</div>
+    <div class="quarto-title-meta-contents">
+             <p>Ward Langeraert </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Publicatiedatum</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">8 maart 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -227,122 +200,43 @@ window.Quarto = {
 </header>
 
 
-<p>Hier verschijnen korte berichten over interessante vondsten, excursies en observaties.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dm9uZHN0JTJDaGVyb250ZGVra2luZyUyQ0JlbGdpJUMzJUFCJTJDem9ldHdhdGVy" data-listing-date-sort="1772924400000" data-listing-file-modified-sort="1772984229893" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="396">
-<div class="thumbnail"><a href="../blog/2026-03-08-herontdekking-platte-schijfhoren.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../blog/2026-03-08-herontdekking-platte-schijfhoren.html" class="no-external">Herontdekking van de Platte schijfhoren in België</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('dm9uZHN0'); return false;">vondst</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGVyb250ZGVra2luZw=='); return false;">herontdekking</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmVsZ2klQzMlQUI='); return false;">België</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('em9ldHdhdGVy'); return false;">zoetwater</div>
-
+<section id="een-onverwachte-vondst" class="level2">
+<h2 class="anchored" data-anchor-id="een-onverwachte-vondst">Een onverwachte vondst</h2>
+<p>Op 19 mei 2025 gingen we met enkele vrienden wandelen in het natuurgebied <a href="https://www.natuurpunt.be/natuurgebieden/vorsdonkbos-turfputten">Vorsdonkbos-Turfputten</a> (Aarschot, Vlaams-Brabant). Tijdens de wandeling stopten we langs de oever van een beek. Kort zocht ik naar lege slakkenhuisjes om aan mijn vrienden te tonen.</p>
+<p>Tussen de plantenresten vond ik een twee kleine, platte schijfvormige schelpjes. Op het eerste gezicht leken ze op gewone schijfhorens (<em>Anisus</em> sp.), maar iets klopte niet helemaal. Ik twijfelde en besloot de schelpen toch mee te nemen om ze later beter te bekijken.</p>
+<p>Thuis bleek dat het ging om de Platte schijfhoren (<em>Anisus vorticulus</em>). Een soort die als zeer zeldzaam (of afwezig) geldt in België.</p>
+<div style="display: flex; gap: 1em; justify-content: center;">
+<p><img src="https://waarnemingen.be/media/photo/118212068.jpg" alt="Platte schijfhoren (Anisus vorticulus)" style="width:100%;"></p>
+<p><img src="https://waarnemingen.be/media/photo/118212070.jpg" alt="Platte schijfhoren (Anisus vorticulus)" style="width:100%;"></p>
 </div>
-<div class="delink listing-description"><a href="../blog/2026-03-08-herontdekking-platte-schijfhoren.html" class="no-external">
-<p>Een onverwachte vondst van de zeldzame Platte schijfhoren in Vorsdonkbos-Turfputten.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../blog/2026-03-08-herontdekking-platte-schijfhoren.html" class="no-external">
-<div class="listing-date">
-8 mrt 2026
-</div>
-<div class="listing-author">
-Ward Langeraert
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="ZXhjdXJzaWVzJTJDbW9sbHVza2VuJTJDQmVsZ2klQzMlQUI=" data-listing-date-sort="1772924400000" data-listing-file-modified-sort="1772984022079" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
-<div class="thumbnail"><a href="../blog/2026-03-08-succinea-excursies-2026.html" class="no-external">
+<p><strong>Platte schijfhoren (<em>Anisus vorticulus</em>) uit Vorsdonkbos-Turfputten.</strong></p>
+</section>
+<section id="herkenning" class="level2">
+<h2 class="anchored" data-anchor-id="herkenning">Herkenning</h2>
+<p>De Platte schijfhoren behoort tot de familie <strong>Planorbidae</strong>. Het huisje is zeer plat en schijfvormig, meestal slechts ongeveer 5 tot 6 mm breed en minder dan 1 mm hoog.</p>
+<p>De soort kan verward worden met de veel algemenere Draaikolk-schijfhoren (<em>Anisus vortex</em>), maar er zijn enkele duidelijke verschillen. De Draaikolk-schijfhoren heeft meer windingen wordt groter dan de Platte schijfhoren. De Platte schijfhoren heeft in het midden van de windingen een stompe kiel, terwijl die bij de Draakolk-schijfhoren over het algemeen opvallender is (scherper) en vaak ook aan de zijkant van de schelp ligt (niet centraal). De schelp van de Platte schijfhoren heeft ten slotte fijne lijntjes die het een zijdeachtige glans geven (cf.&nbsp;Kleine blinkslak <em>Aegopinella pura</em>).</p>
+<p>De Platte schijfhoren komt voor in rijk begroeid, helder water terwijl de Draaikolk-schijhoren veel beter bestand is tegen vervuild water.</p>
+</section>
+<section id="zeldzaam-en-beschermd" class="level2">
+<h2 class="anchored" data-anchor-id="zeldzaam-en-beschermd">Zeldzaam en beschermd</h2>
+<p>De Platte schijfhoren is een soort met een voornamelijk Midden- en Oost-Europese verspreiding. In België werd ze historisch slechts zeer zelden vastgesteld. In Nederland komt ze algemener voor.</p>
+<p>In een studie van Sablon &amp; Van Goethem (<a href="https://biblio.naturalsciences.be/rbins-publications/miscellanous/verhandelingen-van-het-symposium-invertebraten-van-belgie-comptes-rendus-du-symposium-invertebres-de-belgique-proceedings-of-the-symposium-invertebrates-of-belgium/wouters-1989-proceedings-of-the-symposium-invertebrates-of-belgium-113-118.pdf">1989</a>) werd bijvoorbeeld slechts één Belgische vindplaats vermeld, gebaseerd op een exemplaar uit Zolder (1986).</p>
+<p>De soort heeft een bijzondere beschermingsstatus. Ze staat vermeld op bijlage II en IV van de Europese Habitatrichtlijn (92/43/EEG).</p>
+<p>Dat betekent dat ze strikt beschermd is:</p>
+<ul>
+<li><strong>Bijlage II</strong>: soorten waarvoor speciale beschermingszones moeten worden aangeduid binnen het Natura 2000-netwerk<br>
+</li>
+<li><strong>Bijlage IV</strong>: soorten die in heel Europa strikt beschermd zijn, ook buiten beschermde gebieden</li>
+</ul>
+<p>In het meest recente <a href="https://publicaties.vlaanderen.be/view-file/19310">INBO-rapport over de mollusken van de Habitatrichtlijn</a> wordt de soort van 4 locaties vermeld, maar er zijn geen goede, recente vindplaatsen van de soort in Vlaanderen.</p>
+<blockquote class="blockquote">
+<p>We volgen deze ontdekking verder op in een apart project, zie <a href="../../projecten/platte-schijfhoren/">projecten/platte-schijfhoren</a></p>
+</blockquote>
 
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../blog/2026-03-08-succinea-excursies-2026.html" class="no-external">Succinea Werkgroep: Excursies 2026</a>
-</h3>
-<div class="listing-categories">
+</section>
 
-<div class="listing-category" onclick="window.quartoListingCategory('ZXhjdXJzaWVz'); return false;">excursies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bW9sbHVza2Vu'); return false;">mollusken</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmVsZ2klQzMlQUI='); return false;">België</div>
-
-</div>
-<div class="delink listing-description"><a href="../blog/2026-03-08-succinea-excursies-2026.html" class="no-external">
-<p>Plan je agenda voor de komende Succinea Werkgroep excursies en ontdek de slakken van België.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../blog/2026-03-08-succinea-excursies-2026.html" class="no-external">
-<div class="listing-date">
-8 mrt 2026
-</div>
-<div class="listing-author">
-Ward Langeraert
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="dm9uZHN0JTJDbmlldXdlJTIwc29vcnQlMkNCZWxnaSVDMyVBQiUyQ2xhbmQ=" data-listing-date-sort="1772924400000" data-listing-file-modified-sort="1772981232042" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="164">
-<div class="thumbnail"><a href="../blog/2026-03-08-xeropicta-derbentina-belgie.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../blog/2026-03-08-xeropicta-derbentina-belgie.html" class="no-external">Een nieuwe slakkensoort voor de Benelux: Xeropicta derbentina</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('dm9uZHN0'); return false;">vondst</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmlldXdlJTIwc29vcnQ='); return false;">nieuwe soort</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmVsZ2klQzMlQUI='); return false;">België</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGFuZA=='); return false;">land</div>
-
-</div>
-<div class="delink listing-description"><a href="../blog/2026-03-08-xeropicta-derbentina-belgie.html" class="no-external">
-<p>De mediterrane slak Xeropicta derbentina werd in 2025 voor het eerst in België vastgesteld.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../blog/2026-03-08-xeropicta-derbentina-belgie.html" class="no-external">
-<div class="listing-date">
-8 mrt 2026
-</div>
-<div class="listing-author">
-Ward Langeraert
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">Geen overeenkomsten</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
