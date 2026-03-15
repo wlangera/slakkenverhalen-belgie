@@ -24,6 +24,8 @@ website:
             text: Slak-in-Du
           - href: projecten/platte-schijfhoren/index.qmd
             text: Platte schijfhoren
+          - href: projecten/bijdrages-aan-gebiedsinventarisaties/index.qmd
+            text: Bijdrages aan gebiedsinventarisaties
 
       - text: Excursies
         menu:

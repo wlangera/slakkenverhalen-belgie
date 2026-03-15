@@ -5,6 +5,7 @@ title: "Projecten"
 ## Projecten
 
 Op deze pagina staan grotere projecten rond slakkenonderzoek.
+Vaak doen leveren we ook [bijdrages aan gebiedsinventarisaties](bijdrages-aan-gebiedsinventarisaties/index.qmd).
 
 ### Lopende projecten
 
