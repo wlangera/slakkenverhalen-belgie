@@ -26,7 +26,28 @@ Maak een issue op [GitHub](https://github.com/wlangera/slakkenverhalen-belgie/is
 
 ![](https://pureportal.inbo.be/files-asset/97192564/Ward_Langeraert_EV_INBO_min.jpg?w=160&f=webp){.float-end width=160}
 
-**Ward Langeraert** is bioloog en statisticus en werkt als **statistisch expert** bij het **Instituut voor Natuur- en Bosonderzoek (INBO)** in België. Hij richt zich  op biodiversiteitsmonitoring, data-analyse en reproduceerbaar onderzoek. Daarnaast ondersteunt hij onderzoekers bij de statistische analyse van hun onderzoeksgegevens. Naast zijn professionele werk heeft hij van jongs af aan een bijzondere interesse in **land- en zoetwatermollusken**.
+**Ward Langeraert** is bioloog en statisticus en werkt als **statistisch expert** bij het **Instituut voor Natuur- en Bosonderzoek (INBO)** in België. Hij richt zich op biodiversiteitsmonitoring, data-analyse en reproduceerbaar onderzoek. Daarnaast ondersteunt hij onderzoekers bij de statistische analyse van hun onderzoeksgegevens.
 
-Meer informatie over het professionele werk van Ward Langeraert is te vinden via het  
-[INBO onderzoeksprofiel](https://pureportal.inbo.be/en/persons/ward-langeraert/).
+Naast zijn professionele werk heeft hij van jongs af aan een bijzondere interesse in **land- en zoetwatermollusken**.
+
+<br>
+
+<div style="display:flex; gap:5px; flex-wrap:wrap;">
+
+<a href="https://orcid.org/0000-0002-5900-8109" target="_blank">
+<img src="https://img.shields.io/badge/ORCID-0000--0002--5900--8109-A6CE39?logo=orcid&logoColor=white">
+</a>
+
+<a href="https://pureportal.inbo.be/en/persons/ward-langeraert/" target="_blank">
+<img src="https://img.shields.io/badge/INBO-Research%20profile-FF00FF">
+</a>
+
+<a href="https://www.researchgate.net/profile/Ward-Langeraert" target="_blank">
+<img src="https://img.shields.io/badge/ResearchGate-Ward%20Langeraert-00CCBB?logo=researchgate&logoColor=white">
+</a>
+
+<a href="https://scholar.google.com/citations?user=N8JfsaAAAAAJ&hl=en&oi=sra" target="_blank">
+<img src="https://img.shields.io/badge/Google%20Scholar-Ward%20Langeraert-4285F4?logo=google-scholar&logoColor=white">
+</a>
+
+</div>
