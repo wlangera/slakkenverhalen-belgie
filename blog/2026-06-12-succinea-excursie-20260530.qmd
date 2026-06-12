@@ -1,0 +1,18 @@
+---
+title: "Succinea excursie kasteelvijvers Groenenberg en Gaasbeek"
+date: 2026-06-12
+author: "Ward Langeraert"
+description: "Overzicht van de soorten aangetroffen tijdens de Succinea excursie aan de kasteelvijvers Groenenberg en Gaasbeek op 30-05-2026."
+categories: [excursie, Succinea, België, overzicht]
+---
+
+## Locatie
+
+Voormiddag: in en rond kasteelvijver Groenenberg ([Google Maps](https://maps.app.goo.gl/JJVjgib6uxDJ4CBu7)).
+
+Namiddag: in en rond kasteelvijvers Gaasbeek ([Google Maps](https://maps.app.goo.gl/V2SjNyyLbCWQUKGS6)).
+
+## Soortenlijst
+
+[61 waarnemingen](https://waarnemingen.be/users/151038/observations/?date_after=2026-05-30&date_before=2026-05-30&species=&species_group=7&rarity=&search=&observation_type=&advanced=on&sex=&month=&life_stage=&activity=&method=&validation_status=) van 301 individuen resulteerden in een lijst van [29 soorten](https://waarnemingen.be/users/151038/species/?period=life&species_group_id=7&min_rarity=&country_division_id=&start_date=2026-05-30&end_date=2026-05-30&filter_month=&filter_year=#type-S), [4 verzamelsoorten](https://waarnemingen.be/users/151038/species/?period=life&species_group_id=7&min_rarity=&country_division_id=&start_date=2026-05-30&end_date=2026-05-30&filter_month=&filter_year=#type-M).
+Bodemstalen zijn nog niet geanalyseerd.
