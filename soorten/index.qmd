@@ -1,9 +1,27 @@
 ---
 title: "Soorten"
+editor_options: 
+  chunk_output_type: console
 ---
 
 Informatie over soorten land- en zoetwaterslakken.
 
 ## Soortenlijst
+
+```{r}
+library(tidyverse)
+library(rgbif) 
+
+
+tree_file <- file.path("../", "data", "dwca-natuurpunt-natagora-checklist-v1.3", "taxon.txt")
+
+long_checklist <- readr::read_delim(tree_file)
+
+test <- long_checklist %>%
+  filter(kingdom == "Animalia") %>%
+  head(100) %>%
+  name_backbone_checklist()
+```
+
 
 > Coming soon
