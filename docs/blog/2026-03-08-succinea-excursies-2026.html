@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="nl-BE" xml:lang="nl-BE"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,6 +11,9 @@
 
 <title>Succinea Werkgroep: Excursies 2026 – Slakkenverhalen uit België</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -225,11 +228,21 @@ ul.task-list li input[type="checkbox"] {
 <section id="excursie-2-zaterdag-4-juli-2026" class="level3">
 <h3 class="anchored" data-anchor-id="excursie-2-zaterdag-4-juli-2026">Excursie 2 – Zaterdag 4 juli 2026</h3>
 <p><strong>Locatie:</strong> Demerbroeken, Zichem</p>
-<p><strong>Afspraakplaats:</strong> Wordt nog bekendgemaakt</p>
+<p><strong>Afspraakplaats:</strong> Mortelbroekstraat (<a href="https://maps.app.goo.gl/1GEa8x8Nzb8SfnHq8?g_st=ac">51°01’11.5”N 4°58’38.0”E</a>)</p>
+<p>Het is zo dat mensen in de wijk gaan moeten parkeren en dan 5 min wandelen. Ze mogen ook langs het pad direct aan de afspraakplaats staan als ze zich daar comfortabel bij voelen, maar als we met heel veel auto’s zijn, is dat misschien niet zo handig.</p>
 <p><strong>Coördinaten:</strong> Worden later gedeeld</p>
 <p><strong>Duur excursie:</strong> 09:30 – 16:30</p>
 <p><strong>Lunchpakket:</strong> zelf te voorzien</p>
 <p><strong>Doel:</strong> Focus op de zeldzame Platte schijfhoren (<em>Anisus vorticulus</em>). Deze soort werd herontdekt nabij Aarschot. Tijdens de excursie neemt Ward ons mee naar een gelijkaardig natuurgebied en wie weet ontdekken we een nieuwe populatie!</p>
+<p><strong>Meer info:</strong></p>
+<p>Voormiddag 9u30 - 12u15</p>
+<p>In de voormiddag een gebied met vijvers, grachten en vennen met speciale waterplanten. Op de grens van kwel en instroom Demer. Dus in dat opzicht gelijkaardig als Vorsdonkbos-Turfputten, behalve dat het water hier veel troebeler is (bevers, ganzen). Dus mooi gebied, maar ik betwijfel of we hier Platte schijfhoren gaan aantreffen.</p>
+<p>Lunch 12u15- 13u30</p>
+<p>Verplaatsen naar ofwel station Zichem ofwel direct naar centrum Zichem (beide hebben een parking).</p>
+<p>Namiddag 13u30 - 16u</p>
+<p>Oude meanders Demer. Het leek me leuk om in de namiddag een ander type natuur in te gaan. We kunnen scheppen in de oude meanders van de Demer. De ene zijn verbonden met de rivier, de andere niet.</p>
+<p>Meenemen:</p>
+<p>-laarzen / waadpak (zeker meedoen!) -schepnet, ev. najadenhark voor namiddag -antimuggenspul -lunchpakket</p>
 </section>
 <section id="excursie-3-zaterdag-26-september-2026" class="level3">
 <h3 class="anchored" data-anchor-id="excursie-3-zaterdag-26-september-2026">Excursie 3 – Zaterdag 26 september 2026</h3>
@@ -296,13 +309,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

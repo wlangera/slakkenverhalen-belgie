@@ -22,3 +22,5 @@ Thumbs.db
 
 # Folders
 data
+
+**/*.quarto_ipynb
